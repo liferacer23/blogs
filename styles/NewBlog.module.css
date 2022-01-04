@@ -1,0 +1,28 @@
+.createblog form{
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  .createblog input,
+  .createblog textarea{
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    padding: 8px;
+  }
+  .createblog label{
+    display: block;
+    margin-top: 24px;
+  }
+  .textarea{
+    height: 120px;
+    resize: none;
+  }
+  .createblog button{
+    margin-top: 20px;
+    background: rgb(141, 206, 155);
+    color: white;
+    padding: 6px;
+    border: 0;
+    font-size: 1.2em;
+    cursor: pointer;
+  }
